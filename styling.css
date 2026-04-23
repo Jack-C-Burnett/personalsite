@@ -1,3 +1,22 @@
+.pagebg{
+    background-color:#FA0000;
+}
+.blockbg{
+    background-color:#1c1a1a;
+}
+h1{
+    color:#dbd7d7;
+    text-align:center;
+    font-family:'Trebuchet MS',sans-serif;
+}
+p{
+    color:#dbd7d7;
+    font-family:'Trebuchet MS',sans-serif;
+}
+a{
+    color:inherit;
+}
+
 img.one {
   height: 50%;
   width: 50%;
